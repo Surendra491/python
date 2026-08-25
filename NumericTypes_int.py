@@ -35,6 +35,6 @@ print(id(y))
 
 
 
-# float     Floating Paint 
+
 # bool      Boolean
 # complex   Complex Number
