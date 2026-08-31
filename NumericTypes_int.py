@@ -36,5 +36,4 @@ print(id(y))
 
 
 
-# bool      Boolean
-# complex   Complex Number
+
