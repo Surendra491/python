@@ -37,6 +37,7 @@ print("Float Division :", c)
 
 
 #   Modulus (reminder) for reminder value  %
+
 a = 5
 b = 10
 c = b%a
